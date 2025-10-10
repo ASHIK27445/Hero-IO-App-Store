@@ -1,0 +1,812 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": 1,
+    "description": {
+      "mainSection": "Facebook connects you with friends, family, and communities worldwide in one place. It helps you stay closer to the people and interests that matter by sharing updates, stories, and real-time interactions.",
+      "keyFeature": [
+        { "key1": "News Feed: See updates from friends, family, and Pages you follow." },
+        { "key2": "Marketplace: Buy and sell items easily within your community." },
+        { "key3": "Groups & Events: Join communities and attend events that match your interests." },
+        { "key4": "Stories & Live: Share moments instantly and engage with your audience." }
+      ],
+      "whatsNew": "Enhanced privacy controls, improved Reels experience, and general bug fixes."
+    },
+    "size": 85,
+    "reviews": 1540000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 4100000 },
+      { "name": "5 star", "count": 7100000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/475689/twitter-color.svg",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 2,
+    "description": {
+      "mainSection": "X is your go-to platform for real-time conversations and breaking news. It keeps you informed and lets you express your voice instantly through short posts, hashtags, and live discussions.",
+      "keyFeature": [
+        { "key1": "Trending Topics: Discover what the world is talking about right now." },
+        { "key2": "Hashtags: Join conversations and make your posts discoverable." },
+        { "key3": "Spaces: Host or listen to live audio discussions." },
+        { "key4": "Personalized Feed: Get content tailored to your interests." }
+      ],
+      "whatsNew": "Improved Spaces functionality, enhanced media upload speeds, and bug fixes."
+    },
+    "size": 72,
+    "reviews": 950000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 3900000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": {
+      "mainSection": "YouTube lets you watch, learn, and create on the world’s biggest video platform. It helps you discover endless videos, tutorials, and music personalized to your interests.",
+      "keyFeature": [
+        { "key1": "Personalized Feed: Videos recommended based on your watch history." },
+        { "key2": "Subscriptions: Stay updated with your favorite creators." },
+        { "key3": "Shorts & Live: Watch bite-sized content and live events instantly." },
+        { "key4": "Offline Mode: Download videos to watch anytime." }
+      ],
+      "whatsNew": "Updated Shorts editing tools, enhanced search experience, and stability improvements."
+    },
+    "size": 110,
+    "reviews": 3000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2200000 },
+      { "name": "2 star", "count": 1300000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7800000 },
+      { "name": "5 star", "count": 15100000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/452223/google-play.svg",
+    "title": "Google Play",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": {
+      "mainSection": "Google Play is your trusted source for apps, games, and digital content. It helps you discover and download millions of secure and high-quality apps with ease.",
+      "keyFeature": [
+        { "key1": "Vast Library: Explore apps, games, books, and movies." },
+        { "key2": "Play Protect: Get security scanning and protection." },
+        { "key3": "Easy Updates: Keep apps up to date with one tap." },
+        { "key4": "Personalized Recommendations: Discover content made for you." }
+      ],
+      "whatsNew": "Improved app discovery, faster downloads and updates, and enhanced security."
+    },
+    "size": 50,
+    "reviews": 400000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1600000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 5,
+    "description": {
+      "mainSection": "Instagram lets you share your moments and explore creativity from around the world. It helps you express yourself visually and connect through photos, videos, and stories.",
+      "keyFeature": [
+        { "key1": "Reels: Create and watch short, engaging videos." },
+        { "key2": "Stories: Share daily moments with fun filters and stickers." },
+        { "key3": "Explore: Discover trends, creators, and content tailored for you." },
+        { "key4": "Messaging: Chat and share posts privately with friends." }
+      ],
+      "whatsNew": "Upgraded Reels tools, improved messaging features, and performance enhancements."
+    },
+    "size": 95,
+    "reviews": 2500000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1300000 },
+      { "name": "3 star", "count": 2900000 },
+      { "name": "4 star", "count": 7300000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms",
+    "id": 6,
+    "description": {
+      "mainSection": "WhatsApp Messenger offers fast, free, and secure communication for everyone. It helps you stay connected through messaging, calls, and media with end-to-end encryption.",
+      "keyFeature": [
+        { "key1": "Messaging: Send texts, images, videos, and voice notes." },
+        { "key2": "Calls: Enjoy free voice and video calls anywhere." },
+        { "key3": "Groups: Stay connected with communities and families." },
+        { "key4": "Status: Share updates that disappear after 24 hours." }
+      ],
+      "whatsNew": "Added chat filters, improved group video calls, and overall speed improvements."
+    },
+    "size": 40,
+    "reviews": 3200000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1400000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2400000 },
+      { "name": "4 star", "count": 8700000 },
+      { "name": "5 star", "count": 18900000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 7,
+    "description": {
+      "mainSection": "TikTok is the ultimate short video platform for creativity and fun. It helps you express yourself and discover viral trends through engaging content.",
+      "keyFeature": [
+        { "key1": "For You Feed: Endless personalized short videos." },
+        { "key2": "Editing Tools: Create high-quality content with ease." },
+        { "key3": "Trending Challenges: Join viral trends and grow your audience." },
+        { "key4": "Duets & Stitch: Collaborate with creators globally." }
+      ],
+      "whatsNew": "Improved editing interface, faster uploads, and stability improvements."
+    },
+    "size": 75,
+    "reviews": 2100000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1100000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 6200000 },
+      { "name": "5 star", "count": 9800000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/157006/linkedin.svg",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 8,
+    "description": {
+      "mainSection": "LinkedIn helps you build your professional identity and grow your career. It connects you with professionals, opportunities, and industry insights.",
+      "keyFeature": [
+        { "key1": "Profile: Highlight your experience, skills, and achievements." },
+        { "key2": "Networking: Connect with professionals worldwide." },
+        { "key3": "Job Search: Discover opportunities that match your skills." },
+        { "key4": "Industry Insights: Stay updated with news and trends." }
+      ],
+      "whatsNew": "Enhanced job search filters, improved messaging, and design updates."
+    },
+    "size": 60,
+    "reviews": 800000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/349511/spotify.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": {
+      "mainSection": "Spotify is your personal soundtrack for every moment. It helps you discover new music, podcasts, and playlists personalized to your taste.",
+      "keyFeature": [
+        { "key1": "Personalized Playlists: Enjoy Daily Mixes and Discover Weekly." },
+        { "key2": "Massive Library: Access millions of songs and podcasts." },
+        { "key3": "Offline Mode: Download and listen without internet." },
+        { "key4": "Cross-Device Playback: Switch seamlessly between devices." }
+      ],
+      "whatsNew": "Improved playlist editing, enhanced podcast recommendations, and performance upgrades."
+    },
+    "size": 45,
+    "reviews": 1200000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 3100000 },
+      { "name": "5 star", "count": 6200000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/354109/netflix-icon.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": {
+      "mainSection": "Netflix offers unlimited entertainment anytime, anywhere. It helps you watch thousands of movies, TV shows, and originals with no ads and total flexibility.",
+      "keyFeature": [
+        { "key1": "Massive Library: Enjoy global blockbusters and originals." },
+        { "key2": "Personalized Recommendations: Get shows tailored to your taste." },
+        { "key3": "Downloads: Watch offline wherever you are." },
+        { "key4": "Multiple Profiles: Create experiences for everyone in the family." }
+      ],
+      "whatsNew": "Refreshed interface, new parental controls, and performance enhancements."
+    },
+    "size": 90,
+    "reviews": 1900000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1600000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 5600000 },
+      { "name": "5 star", "count": 8600000 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,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",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 11,
+    "description": {
+      "mainSection": "Zoom: Seamless HD video meetings, chat, and collaboration for work, school, and friends.",
+      "keyFeature": [
+        { "key1": "HD Video & Audio: Enjoy crystal-clear meetings anywhere." },
+        { "key2": "Screen Sharing: Present and collaborate in real time." },
+        { "key3": "Chat & Collaboration: Message teams, share files, and stay connected." },
+        { "key4": "Cross-Platform Support: Works on desktop, mobile, and web." }
+      ],
+      "whatsNew": "Improved meeting performance and fixed minor bugs for a smoother experience."
+    },
+    "size": 85,
+    "reviews": 1100000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 3400000 },
+      { "name": "5 star", "count": 4700000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pinterest_Logo.svg",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 12,
+    "description": {
+      "mainSection": "Pinterest: Discover endless ideas for recipes, home decor, fashion, and inspiration.",
+      "keyFeature": [
+        { "key1": "Personalized Feed: Explore content tailored to your interests." },
+        { "key2": "Pin & Save: Collect your favorite ideas in one place." },
+        { "key3": "Search Inspiration: Find DIY, style, and decor ideas easily." },
+        { "key4": "Visual Discovery: Use images to explore and plan creatively." }
+      ],
+      "whatsNew": "Performance enhancements and bug fixes to make Pinterest even faster."
+    },
+    "size": 60,
+    "reviews": 800000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 4300000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 13,
+    "description": {
+      "mainSection": "Telegram: Fast, secure messaging and file sharing with unlimited cloud storage.",
+      "keyFeature": [
+        { "key1": "Lightning-Fast Messaging: Send texts, photos, and files instantly." },
+        { "key2": "Cloud Storage: Access your messages and media anytime, anywhere." },
+        { "key3": "Large Groups & Channels: Stay connected with communities easily." },
+        { "key4": "End-to-End Encryption: Keep your conversations private and secure." }
+      ],
+      "whatsNew": "Added new chat features and improved app performance."
+    },
+    "size": 35,
+    "reviews": 900000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 4600000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 14,
+    "description": {
+      "mainSection": "Snapchat: Share moments instantly with disappearing photos and videos.",
+      "keyFeature": [
+        { "key1": "Snaps & Stories: Share your life in real time with friends." },
+        { "key2": "Filters & Lenses: Enhance your snaps with fun effects." },
+        { "key3": "Chat & Video Calls: Stay connected through text and live calls." },
+        { "key4": "Discover: Watch trending stories and shows." }
+      ],
+      "whatsNew": "New lenses, improved camera performance, and bug fixes."
+    },
+    "size": 90,
+    "reviews": 1800000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1700000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 5200000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/344730/discord.svg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 15,
+    "description": {
+      "mainSection": "Discord: Voice, video, and text chat for communities and friends.",
+      "keyFeature": [
+        { "key1": "Voice Channels: Talk in real time with your community." },
+        { "key2": "Video & Screen Share: Collaborate and have fun face-to-face." },
+        { "key3": "Text Channels: Organize conversations by topic." },
+        { "key4": "Custom Servers: Build and manage your own communities." }
+      ],
+      "whatsNew": "Performance improvements and bug fixes to enhance chat experience."
+    },
+    "size": 70,
+    "reviews": 750000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "image": "https://cdn.brandfetch.io/id4D-_pnvt/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668516063430",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 16,
+     "description": {
+      "mainSection": "Duolingo: Learn languages for free with fun, bite-sized lessons.",
+      "keyFeature": [
+        { "key1": "Interactive Lessons: Practice speaking, reading, listening, and writing." },
+        { "key2": "Gamified Learning: Earn points and rewards as you progress." },
+        { "key3": "Multiple Languages: Learn over 30 languages at your own pace." },
+        { "key4": "Daily Streaks: Stay motivated with streak goals and reminders." }
+      ],
+      "whatsNew": "Added new languages and improved lesson accuracy for a smoother experience."
+    },
+    "size": 40,
+    "reviews": 1200000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 8800000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 17,
+    "description": {
+      "mainSection": "Uber: Book rides, order food, and move your way around cities.",
+      "keyFeature": [
+        { "key1": "Quick Ride Booking: Get a car to your location within minutes." },
+        { "key2": "Uber Eats: Order food from your favorite restaurants." },
+        { "key3": "Multiple Ride Options: Choose from economy to premium." },
+        { "key4": "Live Tracking: Follow your driver in real time for safety and convenience." }
+      ],
+      "whatsNew": "Performance updates and bug fixes for smoother rides and faster delivery."
+    },
+    "size": 55,
+    "reviews": 1000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 4200000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 18,
+    "description": {
+      "mainSection": "Airbnb: Book unique stays and experiences around the world.",
+      "keyFeature": [
+        { "key1": "Unique Stays: Find homes, cabins, and apartments in any destination." },
+        { "key2": "Experiences: Join guided tours, classes, and activities hosted by locals." },
+        { "key3": "Easy Booking: Secure your trip with instant or host approval options." },
+        { "key4": "Wishlists: Save and organize your favorite places for future trips." }
+      ],
+      "whatsNew": "Improved booking experience and bug fixes for a more reliable app."
+    },
+    "size": 60,
+    "reviews": 700000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 19,
+    "description": {
+      "mainSection": "Canva: Design graphics, presentations, and social media content easily.",
+      "keyFeature": [
+        { "key1": "Drag-and-Drop Editor: Create stunning designs effortlessly." },
+        { "key2": "Templates Library: Access thousands of free templates." },
+        { "key3": "Team Collaboration: Work with others in real time." },
+        { "key4": "Multi-Platform: Design on web, tablet, or mobile." }
+      ],
+      "whatsNew": "New templates, improved performance, and faster design rendering."
+    },
+    "size": 75,
+    "reviews": 900000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 6750000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/349391/google-maps-old.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": {
+      "mainSection": "Google Maps: Navigate, explore, and find places with live traffic and transit updates.",
+      "keyFeature": [
+        { "key1": "Real-Time Navigation: Get turn-by-turn directions with live traffic." },
+        { "key2": "Public Transit Info: Plan trips with accurate bus and train schedules." },
+        { "key3": "Explore Nearby: Discover restaurants, shops, and attractions." },
+        { "key4": "Offline Maps: Navigate even without an internet connection." }
+      ],
+      "whatsNew": "Improved location accuracy, better offline map support, and bug fixes."
+    },
+    "size": 45,
+    "reviews": 2500000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 11800000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/349379/gmail-old.svg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 21,
+    "description": {
+      "mainSection": "Gmail: Secure email service with smart organization and spam protection.",
+      "keyFeature": [
+        { "key1": "Smart Inbox: Automatically sorts emails into categories for easy navigation." },
+        { "key2": "High Security: Protects against phishing and spam." },
+        { "key3": "Integrated Google Services: Seamless access to Drive, Calendar, and Meet." },
+        { "key4": "Offline Mode: Access and compose emails without internet connection." }
+      ],
+      "whatsNew": "Improved spam detection and enhanced security updates."
+    },
+    "size": 30,
+    "reviews": 2000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 5600000 },
+      { "name": "5 star", "count": 9400000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/353811/google-drive.svg",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 22,
+    "description": {
+      "mainSection": "Google Drive: Store, share, and collaborate on files securely in the cloud.",
+      "keyFeature": [
+        { "key1": "Cloud Storage: Keep files safe and accessible anywhere." },
+        { "key2": "Real-Time Collaboration: Work simultaneously with team members." },
+        { "key3": "File Sharing: Share links or invite collaborators easily." },
+        { "key4": "Offline Access: Edit and view documents without internet." }
+      ],
+      "whatsNew": "Improved file syncing and performance optimizations."
+    },
+    "size": 35,
+    "reviews": 1500000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4400000 },
+      { "name": "5 star", "count": 7800000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/353826/google-photos.svg",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 23,
+    "description": {
+      "mainSection": "Google Photos: Backup, organize, and share your photos and videos easily.",
+      "keyFeature": [
+        { "key1": "Automatic Backup: Securely save photos and videos in the cloud." },
+        { "key2": "Smart Organization: Easily search and categorize your memories." },
+        { "key3": "Editing Tools: Enhance photos with filters and editing features." },
+        { "key4": "Sharing Made Simple: Share albums with friends and family." }
+      ],
+      "whatsNew": "Faster backup speeds and improved photo editing options."
+    },
+    "size": 50,
+    "reviews": 1200000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1400000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 6900000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/303566/chrome-7-logo.svg",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 24,
+    "description": {
+      "mainSection": "Google Chrome: Fast, secure web browser with built-in Google Search.",
+      "keyFeature": [
+        { "key1": "Speedy Browsing: Quick page load times and smooth navigation." },
+        { "key2": "Safe Browsing: Protects against malware and phishing." },
+        { "key3": "Sync Across Devices: Access bookmarks and history everywhere." },
+        { "key4": "Extensions Library: Enhance functionality with Chrome Web Store apps." }
+      ],
+      "whatsNew": "Security improvements and faster tab loading for better performance."
+    },
+    "size": 90,
+    "reviews": 2800000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2200000 },
+      { "name": "2 star", "count": 1400000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7400000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/452094/reddit.svg",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 25,
+    "description": {
+      "mainSection": "Reddit: Dive into communities, discussions, and trending content.",
+      "keyFeature": [
+        { "key1": "Subreddits: Follow communities based on your interests." },
+        { "key2": "Upvote/Downvote System: Influence content visibility." },
+        { "key3": "Live Discussions: Join real-time conversations and AMAs." },
+        { "key4": "Content Discovery: Explore trending posts and media easily." }
+      ],
+      "whatsNew": "Enhanced community engagement features and bug fixes."
+    },
+    "size": 65,
+    "reviews": 650000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/417448/bird.svg",
+    "title": "Netflix Games",
+    "companyName": "Netflix, Inc.",
+    "id": 26,
+    "description": {
+      "mainSection": "Netflix Games: Explore exclusive games included with your Netflix membership.",
+      "keyFeature": [
+        { "key1": "Exclusive Titles: Play games only available to Netflix members." },
+        { "key2": "Seamless Experience: Launch and play directly from the Netflix app." },
+        { "key3": "Cross-Device Play: Enjoy games on multiple devices." },
+        { "key4": "No Ads: Play uninterrupted without advertisements." }
+      ],
+      "whatsNew": "Added new games and improved loading times for smoother gameplay."
+    },
+    "size": 95,
+    "reviews": 300000,
+    "ratingAvg": 4.2,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1100000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/303589/office-1-logo.svg",
+    "title": "Microsoft Office",
+    "companyName": "Microsoft Corporation",
+    "id": 27,
+    "description": {
+      "mainSection": "Microsoft Office: All your favorite Office apps like Word, Excel, and PowerPoint in one place.",
+      "keyFeature": [
+        { "key1": "Unified Access: Use Word, Excel, PowerPoint, and more from one app." },
+        { "key2": "Cloud Integration: Save and access documents via OneDrive." },
+        { "key3": "Collaboration Tools: Work with teammates in real-time." },
+        { "key4": "Templates & Productivity: Quickly start projects with pre-built templates." }
+      ],
+      "whatsNew": "Bug fixes and performance improvements for smoother editing and collaboration."
+    },
+    "size": 120,
+    "reviews": 800000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/452148/adobe-creative-cloud.svg",
+    "title": "Adobe Creative Cloud",
+    "companyName": "Adobe Inc.",
+    "id": 28,
+    "description": {
+      "mainSection": "Adobe Creative Cloud: Access Adobe's powerful suite of creative tools and assets.",
+      "keyFeature": [
+        { "key1": "All-in-One Suite: Use Photoshop, Illustrator, and more in one app." },
+        { "key2": "Cloud Storage: Access your projects anywhere." },
+        { "key3": "Creative Assets: Millions of fonts, stock images, and templates." },
+        { "key4": "Collaboration: Share and collaborate on creative projects with your team." }
+      ],
+      "whatsNew": "Performance enhancements and new creative templates added."
+    },
+    "size": 110,
+    "reviews": 400000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/331620/twitch-v2.svg",
+    "title": "Twitch",
+    "companyName": "Amazon Inc.",
+    "id": 29,
+    "description": {
+      "mainSection": "Twitch: Watch live streams, chat, and follow your favorite creators.",
+      "keyFeature": [
+        { "key1": "Live Streaming: Watch gaming and entertainment streams live." },
+        { "key2": "Interactive Chat: Engage with streamers and other viewers." },
+        { "key3": "Follow & Subscribe: Stay updated with favorite creators." },
+        { "key4": "Clips & Highlights: Save and share memorable moments from streams." }
+      ],
+      "whatsNew": "Improved streaming performance and bug fixes for smoother viewing."
+    },
+    "size": 85,
+    "reviews": 600000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1900000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://www.svgrepo.com/show/474327/spotify.svg",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "id": 30,
+    "description": {
+      "mainSection": "Spotify Lite: A lighter version of Spotify for slower networks and devices.",
+      "keyFeature": [
+        { "key1": "Music Streaming: Listen to your favorite songs with minimal data usage." },
+        { "key2": "Offline Playback: Save playlists and songs for offline listening." },
+        { "key3": "Lightweight Design: Runs smoothly on older devices." },
+        { "key4": "Personalized Recommendations: Discover music tailored to your taste." }
+      ],
+      "whatsNew": "Updated performance for faster startup and improved offline playback."
+    },
+    "size": 12,
+    "reviews": 200000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 950000 }
+    ]
+  }
+]
