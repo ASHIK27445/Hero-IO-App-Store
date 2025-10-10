@@ -23,14 +23,14 @@ const InstalledApp = () => {
             sortedApp.sort((a,b)=> a.downloads - b.downloads)
         }
         else if(type === 'default'){
-            sortedApp.sort(a=> a.ratingAvg)
+            sortedApp.sort((a,b)=> b.ratingAvg- a.ratingAvg)
         }
 
         setIsInstalled(sortedApp)
         setsSortBy(text)
     }
     return(
-        <div className="mb-20 font-inter">
+        <div className="mb-20 font-inter px-5">
             <div className="text-center mt-20 mb-10">
                 <h2 className="text-[#001931] font-bold text-[42px]">Your Installed Apps</h2>
                 <p className="text-[#627382] textarea-md mt-2">Explore All Trending Apps on the Market developed by us</p>

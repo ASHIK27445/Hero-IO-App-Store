@@ -8,8 +8,8 @@ const AppCard = ({ appData }) => {
   return (
     <Link to={`/appDetails/${id}`} state={appData}> 
     {/* //*👈 pass the whole object here/* */}
-      <div className="border-2 border-black max-w-[250px] w-full overflow-hidden h-[300px] p-4 rounded-md cursor-pointer hover:shadow-lg transition">
-        <div className="w-full h-[180px] border-2 border-amber-600 rounded-lg p-4">
+      <div className="border-2 border-black max-w-[180px] lg:max-w-[250px] w-full overflow-hidden h-[300px] p-4 rounded-md cursor-pointer hover:shadow-lg transition">
+        <div className="w-full h-[120px] lg:h-[180px] border-2 border-amber-600 rounded-lg p-4">
           <img className="w-full h-full object-contain" src={image} alt={title} />
         </div>
 

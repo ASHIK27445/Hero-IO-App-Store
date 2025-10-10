@@ -8,7 +8,7 @@ const TopApp = ({data}) => {
                 <h2 className="text-[#001931] font-bold text-[42px]">Trending Apps</h2>
                 <p className="text-[#627382] text-sm">Explore All Trending Apps on the Market developed by us</p>
             </div>
-            <div className="grid max-w-[532px] grid-cols-2 sm md:grid-cols-3 md:max-w-[800px] lg:grid-cols-4 lg:max-w-[1064px] gap-4 mx-auto mb-10">
+            <div className="grid max-w-[400px] grid-cols-2 sm md:grid-cols-3 md:max-w-[800px] lg:grid-cols-4 lg:max-w-[1064px] gap-4 mx-auto mb-10">
                 {
                     data
                     .sort((a, b)=> b.downloads - a.downloads)
