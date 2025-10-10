@@ -9,7 +9,9 @@ const Root = () => {
         <div>
             <Navbar></Navbar>
             {
-                navigation.state === 'loading' && <p>Loading......</p>
+                navigation.state === 'loading' && <div className="flex justify-center text-red-700 mt-7">
+                    <span className="loading loading-spinner loading-xl"></span>
+                    </div>
             }
             <Outlet></Outlet>
             <Footer></Footer>
