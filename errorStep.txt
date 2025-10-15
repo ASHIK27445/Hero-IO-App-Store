@@ -1,2 +1,27 @@
+🟦 Option 1: Use copy Command (Windows CMD)
+copy dist\index.html dist\200.html
+copy dist\index.html dist\404.html
+
+
+✅ Works directly in Command Prompt.
+
+Note: Use backslashes (\) in file paths.
+
+🟨 Option 2: Use PowerShell
+
+If you’re using PowerShell, use Copy-Item:
+
+Copy-Item dist\index.html dist\200.html
+Copy-Item dist\index.html dist\404.html
+
+🟩 Option 3: Use Git Bash or WSL
+
+If you have Git Bash or Windows Subsystem for Linux (WSL) installed, you can use the original cp commands as-is:
+
 cp dist/index.html dist/200.html
 cp dist/index.html dist/404.html
+
+
+✅ Ideal if you're following a tutorial meant for Linux/Mac.
+
+Would you like me to explain why these commands are usually needed in frontend projects (e.g., React/Vite apps deployed to Netlify)?
