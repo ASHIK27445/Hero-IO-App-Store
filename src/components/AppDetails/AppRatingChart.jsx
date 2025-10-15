@@ -1,6 +1,6 @@
 import { BarChart, Bar, Rectangle, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts'
 const AppRatingChart = ({app}) => {
-    const ratings = app.ratings.map(ratingData=>{
+    const ratings = app?.ratings?.map(ratingData=>{
         return {
             name: ratingData.name,
             count: ratingData.count
@@ -30,7 +30,7 @@ const AppRatingChart = ({app}) => {
                     <YAxis type='category' dataKey="name" />
                     <Tooltip />
                     <Bar dataKey="count">
-                      {ratings.map((entry, index) => (
+                      {ratings?.map((entry, index) => (
                       <Cell key={`cell-${index}`} fill={colors[index % colors.length]} />
                       ))}
                     </Bar>

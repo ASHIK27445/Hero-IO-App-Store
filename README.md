@@ -18,4 +18,4 @@ Hero.io App Store is a web application that allows users to browse, search, and 
 - **React Icons**: For iconography in the app.
 - **react-toastify**: For notifications on app actions.
 - **LocalStorage**: For storing installed apps locally.
-
+- **react-spinners**: For showing spinner of searching apps.

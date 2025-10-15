@@ -45,7 +45,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn text-white bg-[#632EE3] bg-[linear-gradient(112deg,rgba(99,46,227,1)_0%,rgba(159,98,242,1)_100%)]"><FaGithub></FaGithub> Contribution</a>
+        <a className="btn text-white bg-[#632EE3] bg-[linear-gradient(112deg,rgba(99,46,227,1)_0%,rgba(159,98,242,1)_100%)]" href="https://github.com/ASHIK27445"><FaGithub></FaGithub> Contribution</a>
       </div>
     </div>
   );

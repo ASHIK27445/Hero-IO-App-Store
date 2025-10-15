@@ -24,7 +24,7 @@ export const router = createBrowserRouter([
         },
         {
           path: 'appDetails/:appID',
-          loader: ({params}) => (fetch(`./app.json/${params.appID}`)),
+          loader: () => (fetch(`/app.json`)),
           Component: AppDetails,
           errorElement: <ErrorApp></ErrorApp>
         },
